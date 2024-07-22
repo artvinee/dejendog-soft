@@ -1,4 +1,4 @@
-# DejenDog (DJDOG) soft
+# DejenDog (DJDOG) soft by artvine.
 
 The software is able to:
 - Register accounts on the referral link 
